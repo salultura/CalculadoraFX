@@ -1,0 +1,24 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.visor{
+	-fx-background-color: azure;
+}
+
+.fundo{
+	-fx-background-color: orange;
+}
+
+.botao{
+	-fx-background-color: red;
+	-fx-text-fill: white;
+}
+
+.resultado{
+	-fx-background-color: blue;
+	-fx-text-fill: white;
+}
+
+.operacoes{
+	-fx-background-color: green;
+	-fx-text-fill: white;
+}
